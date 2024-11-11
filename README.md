@@ -6,10 +6,10 @@
 ## Hi there 👋
 # 💫 About Me:
 
-- 🔭 I’m currently working on React, Node, and AWS projects
-- 🌱 I’m currently learning Intermediate backend terminologies like GraphQL and caching mechanisms
+- 🔭 I’m currently working on MERN Stack and Cloud Computing
+- 🌱 I’m currently learning Amazon Web Services
 - 👯 I’m looking to collaborate on building communities and research projects related to Web
-- 💬 Ask me anything about React, Node and TypeScript
+- 💬 Ask me about Node.js, React, Postgresql, MongoDB Etc.
 - 📫 How to reach me: siddhartharaut33@gmail.com
 - ⚡ Fun fact: Code whisperer in action, turning caffeine into code
 
